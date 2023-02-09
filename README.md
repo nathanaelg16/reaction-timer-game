@@ -1,4 +1,4 @@
-# reactiontimer
+# Reaction Timer Game
 
 ## Project setup
 ```
@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Attribution
+
+This project was created following a [tutorial](https://www.youtube.com/watch?v=bc6czIBLKTg) provided by The Net Ninja.
